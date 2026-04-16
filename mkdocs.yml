@@ -9,6 +9,7 @@ nav:
       - index.md
 
 theme:
+  name: material
   language: en
   icon:
     logo: fontawesome/solid/book
@@ -25,20 +26,20 @@ theme:
     - navigation.tabs
     - navigation.top
     - search.highlight
-  palette:  # Automatic light/dark mode: https://zensical.org/docs/setup/colors/#automatic-light-dark-mode
+  palette:
     - media: (prefers-color-scheme)
       toggle:
-        icon: lucide/sun-moon
+        icon: material/theme-light-dark
         name: Switch to light mode
     - media: '(prefers-color-scheme: light)'
       scheme: default
       toggle:
-        icon: lucide/sun
+        icon: material/weather-night
         name: Switch to dark mode
     - media: '(prefers-color-scheme: dark)'
       scheme: slate
       toggle:
-        icon: lucide/moon
+        icon: material/weather-sunny
         name: Switch to system preference
 
 plugins:
