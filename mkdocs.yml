@@ -1,4 +1,4 @@
-site_name: py-course-demo
+site_name: Very Cool Docs
 site_description: Documentation for py-course-demo
 site_author: Sreeparna Deb
 
@@ -7,6 +7,7 @@ repo_url: https://github.com/sree2712/py-course-demo
 nav:
   - Home:
       - index.md
+  - My First Page: my-first-page.md
 
 theme:
   name: material
