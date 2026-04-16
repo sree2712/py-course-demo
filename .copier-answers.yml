@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier
+_commit: v0.5.1
+_src_path: git+https://gitlab.ewi.tudelft.nl/reit/python-package-template
+email: sreeparna9324@gmail.com
+environment_manager: uv
+full_name: Sreeparna Deb
+host: github.com
+license: MIT
+min_python_version: '3.10'
+org: sree2712
+project_name: py-course-demo
+project_short_description: A great package.
+url: https://github.com/sree2712/py-course-demo

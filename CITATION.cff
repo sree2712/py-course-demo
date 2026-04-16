@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: py-course-demo
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+version: 0.0.1
+authors:
+  - given-names: Sreeparna
+    family-names: Deb
+    email: sreeparna9324@gmail.com
+    affiliation: TU Delft
+repository-code: https://github.com/sree2712/py-course-demo
+license: MIT
+# identifiers:
+#   - type: doi
+#     value: 10.5281/zenodo.1234 # Uncomment this and replace it with a real DOI
